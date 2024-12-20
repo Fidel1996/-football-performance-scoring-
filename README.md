@@ -32,3 +32,4 @@ The model primarily focuses on **strikers (CF - Centre Forwards)** and calculate
 You can install the necessary libraries with:
 ```bash
 pip install pandas numpy openpyxl
+
